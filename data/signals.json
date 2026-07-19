@@ -267,7 +267,7 @@
   },
   {
     "id": 39,
-    "word": "Enkrona-mynt",
+    "word": "Mynt 1 krona",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_1-krona.png",
     "video": "https://player.vimeo.com/video/572427793"
@@ -316,21 +316,21 @@
   },
   {
     "id": 46,
-    "word": "Femhundrakronorssedel",
+    "word": "Sedel 500 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_500_kronor.png",
     "video": "https://player.vimeo.com/video/572428089"
   },
   {
     "id": 47,
-    "word": "Femkrona-mynt",
+    "word": "Mynt 5 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_5-krona.png",
     "video": "https://player.vimeo.com/video/572427837"
   },
   {
     "id": 48,
-    "word": "Femtiokronorssedel",
+    "word": "Sedel 50 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_50_kronor.png",
     "video": "https://player.vimeo.com/video/572428011"
@@ -645,7 +645,7 @@
   },
   {
     "id": 93,
-    "word": "Hundrakronorssedel",
+    "word": "Sedel 100 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_100_kronor.png",
     "video": "https://player.vimeo.com/video/572428025"
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 241,
-    "word": "Tiokrona-mynt",
+    "word": "Mynt 10 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_10-krona.png",
     "video": "https://vimeo.com/572427857?fl=pl&fe=vl"
@@ -1702,7 +1702,7 @@
   },
   {
     "id": 244,
-    "word": "Tjugokronorssedel",
+    "word": "Sedel 20 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_20_kronor.png",
     "video": "https://player.vimeo.com/video/572427989"
@@ -1779,14 +1779,14 @@
   },
   {
     "id": 255,
-    "word": "Tvåhundrakronorssedel",
+    "word": "Sedel 200 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_200_kronor.png",
     "video": "https://player.vimeo.com/video/572428065"
   },
   {
     "id": 256,
-    "word": "Tvåkrona-mynt",
+    "word": "Mynt 2 kronor",
     "category": "Pengar",
     "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_2-krona.png",
     "video": "https://player.vimeo.com/video/572427820"
