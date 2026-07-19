@@ -1,0 +1,1969 @@
+[
+  {
+    "id": 1,
+    "word": "Allvarlig",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/001_allvarlig-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171318069"
+  },
+  {
+    "id": 2,
+    "word": "Alt",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Alt.png",
+    "video": "https://player.vimeo.com/video/572434466"
+  },
+  {
+    "id": 3,
+    "word": "Alt gr",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Alt_Gr.png",
+    "video": "https://player.vimeo.com/video/572434818"
+  },
+  {
+    "id": 4,
+    "word": "Ansikte",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/002_ansikte.png",
+    "video": "https://player.vimeo.com/video/171639750"
+  },
+  {
+    "id": 5,
+    "word": "Anteckna",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/003_alt_anteckna.png",
+    "video": "https://player.vimeo.com/video/171639747"
+  },
+  {
+    "id": 6,
+    "word": "Apelsin",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/28_apelsin.png",
+    "video": "https://player.vimeo.com/video/216492868"
+  },
+  {
+    "id": 7,
+    "word": "Applådera",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/004_appladera-1.png",
+    "video": "https://player.vimeo.com/video/171639749"
+  },
+  {
+    "id": 8,
+    "word": "Arg",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/005_arg-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712448"
+  },
+  {
+    "id": 9,
+    "word": "Dra över tiden, alternativ 1",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Dra_over_tiden_alt1.png",
+    "video": "https://player.vimeo.com/video/572427466"
+  },
+  {
+    "id": 10,
+    "word": "Dra över tiden, alternativ 2",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Dra_over_tiden_alt2.png",
+    "video": "https://player.vimeo.com/video/572427513"
+  },
+  {
+    "id": 11,
+    "word": "Backa och vrid åt höger",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-backa-och-vrid-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724490"
+  },
+  {
+    "id": 12,
+    "word": "Backsteg",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Backsteg.png",
+    "video": "https://player.vimeo.com/video/572434932"
+  },
+  {
+    "id": 13,
+    "word": "Banan, alternativ ett",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Banan-alt-1.png",
+    "video": "https://player.vimeo.com/video/216493221"
+  },
+  {
+    "id": 14,
+    "word": "Banan, alternativ två",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Banan-alt-2.png",
+    "video": "https://player.vimeo.com/video/216497875"
+  },
+  {
+    "id": 15,
+    "word": "Belöning till hunden",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-belona-hunden-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217009934"
+  },
+  {
+    "id": 16,
+    "word": "Bensträckare, kort paus",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/006_alt_benstrackare.png",
+    "video": "https://player.vimeo.com/video/171712468"
+  },
+  {
+    "id": 17,
+    "word": "Berusad",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/007_berusad-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712449"
+  },
+  {
+    "id": 18,
+    "word": "Beröm till hunden, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-berom-hunden-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217010078"
+  },
+  {
+    "id": 19,
+    "word": "Beröm till hunden, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-berom-hunden-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217010255"
+  },
+  {
+    "id": 20,
+    "word": "Bil",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/008_bil-01.png",
+    "video": "https://player.vimeo.com/video/171712451"
+  },
+  {
+    "id": 21,
+    "word": "Blixt",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/009_blixt.png",
+    "video": "https://player.vimeo.com/video/171712546"
+  },
+  {
+    "id": 22,
+    "word": "Blyg",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/08_blyg.png",
+    "video": "https://player.vimeo.com/video/216499518"
+  },
+  {
+    "id": 23,
+    "word": "Blå",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/010_alt_bla.png",
+    "video": "https://player.vimeo.com/video/171712527"
+  },
+  {
+    "id": 24,
+    "word": "Bokstav",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/011_bokstav.png",
+    "video": "https://player.vimeo.com/video/171712452"
+  },
+  {
+    "id": 25,
+    "word": "Bra",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/08/Bra-illustration.png",
+    "video": "https://player.vimeo.com/video/171712460"
+  },
+  {
+    "id": 26,
+    "word": "Brun",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/016_alt_brun-01-285x284.png",
+    "video": "https://player.vimeo.com/video/171712450"
+  },
+  {
+    "id": 27,
+    "word": "Bu, skrämma eller spöke",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Bu-skramma-spoke.png",
+    "video": "https://player.vimeo.com/video/345575217"
+  },
+  {
+    "id": 28,
+    "word": "Bulle",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/017_alt_bulle-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712456"
+  },
+  {
+    "id": 29,
+    "word": "Choklad",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/018_choklad-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712455"
+  },
+  {
+    "id": 30,
+    "word": "Ctrl",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Ctrl.png",
+    "video": "https://player.vimeo.com/video/572434968"
+  },
+  {
+    "id": 31,
+    "word": "Cykel",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/019_cykel-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712525"
+  },
+  {
+    "id": 32,
+    "word": "Dansa",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Dansa.png",
+    "video": "https://player.vimeo.com/video/216499942"
+  },
+  {
+    "id": 33,
+    "word": "Delete",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Delete.png",
+    "video": "https://player.vimeo.com/video/572435005"
+  },
+  {
+    "id": 34,
+    "word": "Detsamma",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Detsamma.png",
+    "video": "https://player.vimeo.com/video/572427448"
+  },
+  {
+    "id": 35,
+    "word": "Din tur eller du har ordet",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/06/020_dintur.png",
+    "video": "https://player.vimeo.com/video/171712494"
+  },
+  {
+    "id": 36,
+    "word": "Dricka",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/021_dricka-01.png",
+    "video": "https://player.vimeo.com/video/171712498"
+  },
+  {
+    "id": 37,
+    "word": "Dörr",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/022_dorr.png",
+    "video": "https://player.vimeo.com/video/171712526"
+  },
+  {
+    "id": 38,
+    "word": "Eller",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/023_eller.png",
+    "video": "https://player.vimeo.com/video/171712438"
+  },
+  {
+    "id": 39,
+    "word": "Enkrona-mynt",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_1-krona.png",
+    "video": "https://player.vimeo.com/video/572427793"
+  },
+  {
+    "id": 40,
+    "word": "Enter",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Enter.png",
+    "video": "https://player.vimeo.com/video/572435043"
+  },
+  {
+    "id": 41,
+    "word": "Ett glas placering",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/14_glas_placering_sq285px.jpg",
+    "video": "https://player.vimeo.com/video/216500372"
+  },
+  {
+    "id": 42,
+    "word": "F-tangenter",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/F-tangenter.png",
+    "video": "https://player.vimeo.com/video/572435063"
+  },
+  {
+    "id": 43,
+    "word": "Fara",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/024_fara.png",
+    "video": "https://player.vimeo.com/video/171712442"
+  },
+  {
+    "id": 44,
+    "word": "Feedback ja till föraren",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-feedback-ja-till-foraren-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724537"
+  },
+  {
+    "id": 45,
+    "word": "Fel",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/06/025_fel.png",
+    "video": "https://player.vimeo.com/video/171712699"
+  },
+  {
+    "id": 46,
+    "word": "Femhundrakronorssedel",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_500_kronor.png",
+    "video": "https://player.vimeo.com/video/572428089"
+  },
+  {
+    "id": 47,
+    "word": "Femkrona-mynt",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_5-krona.png",
+    "video": "https://player.vimeo.com/video/572427837"
+  },
+  {
+    "id": 48,
+    "word": "Femtiokronorssedel",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_50_kronor.png",
+    "video": "https://player.vimeo.com/video/572428011"
+  },
+  {
+    "id": 49,
+    "word": "Fisk",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Fisk.png",
+    "video": "https://player.vimeo.com/video/216500013"
+  },
+  {
+    "id": 50,
+    "word": "Flirta",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/026_flirta.png",
+    "video": "https://player.vimeo.com/video/171712506"
+  },
+  {
+    "id": 51,
+    "word": "Flytta dig lite",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/027_flyttadig-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712515"
+  },
+  {
+    "id": 52,
+    "word": "Flytta punktskriftsdisplayen till höger",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Punktskrift_flytta_displayen_till_hoger.png",
+    "video": "https://player.vimeo.com/video/572435394"
+  },
+  {
+    "id": 53,
+    "word": "Flytta punktskriftsdisplayen till vänster",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Punktskrift_flytta_displayen_till_vanster.png",
+    "video": "https://player.vimeo.com/video/572435410"
+  },
+  {
+    "id": 54,
+    "word": "Förstoring, slå av",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Forstoring_sla-av.png",
+    "video": "https://player.vimeo.com/video/572435081"
+  },
+  {
+    "id": 55,
+    "word": "Fortsätt fram mot referenspunkt",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-riktning-referenspunkt-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217015662"
+  },
+  {
+    "id": 56,
+    "word": "Fortsätta",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Fortsatta.png",
+    "video": "https://player.vimeo.com/video/572427551"
+  },
+  {
+    "id": 57,
+    "word": "Fotografera",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/22_fotografera.png",
+    "video": "https://player.vimeo.com/video/216073138"
+  },
+  {
+    "id": 58,
+    "word": "Frukt",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/028_frukt.png",
+    "video": "https://player.vimeo.com/video/171712478"
+  },
+  {
+    "id": 59,
+    "word": "Fråga",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Fraga-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712690"
+  },
+  {
+    "id": 60,
+    "word": "Fundera",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/030_fundera.png",
+    "video": "https://player.vimeo.com/video/171712554"
+  },
+  {
+    "id": 61,
+    "word": "Färdigt",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/06/035_fardig.png",
+    "video": "https://player.vimeo.com/video/171712485"
+  },
+  {
+    "id": 62,
+    "word": "Förlåt",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/27_forlat.png",
+    "video": "https://player.vimeo.com/video/216500231"
+  },
+  {
+    "id": 63,
+    "word": "Förvånad",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/034_forvanad.png",
+    "video": "https://player.vimeo.com/video/171712663"
+  },
+  {
+    "id": 64,
+    "word": "Generad",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/031_generad.png",
+    "video": "https://player.vimeo.com/video/171712467"
+  },
+  {
+    "id": 65,
+    "word": "Glad, le",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/061_le.png",
+    "video": "https://player.vimeo.com/video/171712499"
+  },
+  {
+    "id": 66,
+    "word": "Glas",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/glas.png",
+    "video": "https://player.vimeo.com/video/216500458"
+  },
+  {
+    "id": 67,
+    "word": "Glass",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/036_glass.png",
+    "video": "https://player.vimeo.com/video/171712683"
+  },
+  {
+    "id": 68,
+    "word": "God eller gott",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/06/13_god.png",
+    "video": "https://player.vimeo.com/video/216073238"
+  },
+  {
+    "id": 69,
+    "word": "God jul",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/God-Jul.png",
+    "video": "https://player.vimeo.com/video/216500697"
+  },
+  {
+    "id": 70,
+    "word": "God natt!",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/038_godnatt.png",
+    "video": "https://player.vimeo.com/video/171712492"
+  },
+  {
+    "id": 71,
+    "word": "Godmorgon",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2024/06/Godmorgon.png",
+    "video": "https://player.vimeo.com/video/171712541"
+  },
+  {
+    "id": 72,
+    "word": "Gott nytt år",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Gott-nytt-ar.png",
+    "video": "https://player.vimeo.com/video/216073047"
+  },
+  {
+    "id": 73,
+    "word": "Grattis",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Grattis.png",
+    "video": "https://player.vimeo.com/video/216072938"
+  },
+  {
+    "id": 74,
+    "word": "Grå",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/039_gra.png",
+    "video": "https://player.vimeo.com/video/171712484"
+  },
+  {
+    "id": 75,
+    "word": "Gråta lite",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Grata-lite-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712667"
+  },
+  {
+    "id": 76,
+    "word": "Gråta mycket",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/041_grata_mycket.png",
+    "video": "https://player.vimeo.com/video/541335616"
+  },
+  {
+    "id": 77,
+    "word": "Grön",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/06/042_gron.png",
+    "video": "https://player.vimeo.com/video/171712483"
+  },
+  {
+    "id": 78,
+    "word": "Gul",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/043_gul-01-285x284.png",
+    "video": "https://player.vimeo.com/video/171712469"
+  },
+  {
+    "id": 79,
+    "word": "Gäspa",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/045_gaspa.png",
+    "video": "https://player.vimeo.com/video/171712523"
+  },
+  {
+    "id": 80,
+    "word": "Gå",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Ga-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712439"
+  },
+  {
+    "id": 81,
+    "word": "Hej då",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/04_hej-da.png",
+    "video": "https://player.vimeo.com/video/216505473"
+  },
+  {
+    "id": 82,
+    "word": "Hicka, alternativ ett",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/046_hicka1.png",
+    "video": "https://player.vimeo.com/video/171712489"
+  },
+  {
+    "id": 83,
+    "word": "Hicka, alternativ två",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/046_hicka2.png",
+    "video": "https://player.vimeo.com/video/171712548"
+  },
+  {
+    "id": 84,
+    "word": "Home",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Home.png",
+    "video": "https://player.vimeo.com/video/572435120"
+  },
+  {
+    "id": 85,
+    "word": "Hosta",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/hosta.png",
+    "video": "https://player.vimeo.com/video/171712441"
+  },
+  {
+    "id": 86,
+    "word": "Hund",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/049_hund.png",
+    "video": "https://player.vimeo.com/video/171712501"
+  },
+  {
+    "id": 87,
+    "word": "Hunden bajsar",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-bajsar-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724731"
+  },
+  {
+    "id": 88,
+    "word": "Hunden kissar",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-kissar-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724993"
+  },
+  {
+    "id": 89,
+    "word": "Hunden kliar sig",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-kliar-sig2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724909"
+  },
+  {
+    "id": 90,
+    "word": "Hunden nosar",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-nosar-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724877"
+  },
+  {
+    "id": 91,
+    "word": "Hunden slickar",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-slickar-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215725026"
+  },
+  {
+    "id": 92,
+    "word": "Hunden tuggar",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hunden-tuggar-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724948"
+  },
+  {
+    "id": 93,
+    "word": "Hundrakronorssedel",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_100_kronor.png",
+    "video": "https://player.vimeo.com/video/572428025"
+  },
+  {
+    "id": 94,
+    "word": "Hämta apport",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hamta-apport-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218540744"
+  },
+  {
+    "id": 95,
+    "word": "Häst",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Hast.png",
+    "video": "https://player.vimeo.com/video/216505395"
+  },
+  {
+    "id": 96,
+    "word": "Bord hästskoformat",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/014_bord.png",
+    "video": "https://player.vimeo.com/video/171712508"
+  },
+  {
+    "id": 97,
+    "word": "Håll åt vänster",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-hall-till-vanster-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724379"
+  },
+  {
+    "id": 98,
+    "word": "Högre eller mer 1",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/050_hoogre-eller-mer.png",
+    "video": "Film saknas"
+  },
+  {
+    "id": 99,
+    "word": "Högre eller mer 2",
+    "category": "Feedback/Interaktion",
+    "image": "\nhttps://nkcdb.se/wp-content/uploads/2021/07/Hogre-eller-mer-alt-2-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712458"
+  },
+  {
+    "id": 100,
+    "word": "Höra/lyssna",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Hora_lyssna.png",
+    "video": "https://player.vimeo.com/video/572427574"
+  },
+  {
+    "id": 101,
+    "word": "Ironi",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/052_ironi.png",
+    "video": "https://player.vimeo.com/video/171712447"
+  },
+  {
+    "id": 102,
+    "word": "Irriterad",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/053_irriterad.png",
+    "video": "https://player.vimeo.com/video/171712495"
+  },
+  {
+    "id": 103,
+    "word": "Ja",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/054_ja-pa-armen.png",
+    "video": "https://player.vimeo.com/video/171712457"
+  },
+  {
+    "id": 104,
+    "word": "Jag älskar dig",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Jag_alskar_dig.png",
+    "video": "https://player.vimeo.com/video/572427596"
+  },
+  {
+    "id": 105,
+    "word": "Jaws-tangenten",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Jaws-tangenten.png",
+    "video": "https://player.vimeo.com/video/572435143"
+  },
+  {
+    "id": 106,
+    "word": "Juice, alternativ 1",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Juice-alt-1.png",
+    "video": "https://player.vimeo.com/video/216505739"
+  },
+  {
+    "id": 107,
+    "word": "Juice, alternativ två",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Juice-alt-2.png",
+    "video": "https://player.vimeo.com/video/216505652"
+  },
+  {
+    "id": 108,
+    "word": "Kaffe",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Kaffe-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712516"
+  },
+  {
+    "id": 109,
+    "word": "Kaka",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/056_kaka.png",
+    "video": "https://player.vimeo.com/video/171712486"
+  },
+  {
+    "id": 110,
+    "word": "Kalla in hunden, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-kalla-in-hunden-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218491850"
+  },
+  {
+    "id": 111,
+    "word": "Kalla in hunden, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-kalla-in-hunden-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218492685"
+  },
+  {
+    "id": 112,
+    "word": "Katt",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Katt.png",
+    "video": "https://player.vimeo.com/video/216072998"
+  },
+  {
+    "id": 113,
+    "word": "Klicka på cursor-routing på punktskriftsdisplayen",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Punktskrift_klicka_pa_curser-routing.png",
+    "video": "https://player.vimeo.com/video/572435436"
+  },
+  {
+    "id": 114,
+    "word": "Klocka",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Klocka-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712540"
+  },
+  {
+    "id": 115,
+    "word": "Knacka på dörren",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/059_knacka.png",
+    "video": "https://player.vimeo.com/video/541335635"
+  },
+  {
+    "id": 116,
+    "word": "Knäckebröd",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Knackebrod.png",
+    "video": "https://player.vimeo.com/video/216506033"
+  },
+  {
+    "id": 117,
+    "word": "Komma",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/060_komma.png",
+    "video": "https://player.vimeo.com/video/171712511"
+  },
+  {
+    "id": 118,
+    "word": "Kommando-tangenten (på mac)",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Kommando-tangenten_Mac.png",
+    "video": "https://player.vimeo.com/video/572435170"
+  },
+  {
+    "id": 119,
+    "word": "Koppel",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-koppel-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218492898"
+  },
+  {
+    "id": 120,
+    "word": "Korrigera hunden, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-korrigera-hunden-nej-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/569808910"
+  },
+  {
+    "id": 121,
+    "word": "Korrigera hunden, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-korrigera-hunden-nej-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724642"
+  },
+  {
+    "id": 122,
+    "word": "Kort kvinna",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/51_kort_kvinna.png",
+    "video": "https://player.vimeo.com/video/216506301"
+  },
+  {
+    "id": 123,
+    "word": "Korv",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Korv.png",
+    "video": "https://player.vimeo.com/video/216072967"
+  },
+  {
+    "id": 124,
+    "word": "Kvinna",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/45_kvinna.png",
+    "video": "https://player.vimeo.com/video/216073319"
+  },
+  {
+    "id": 125,
+    "word": "Kvitto",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Kvitto.png",
+    "video": "https://player.vimeo.com/video/572427626"
+  },
+  {
+    "id": 126,
+    "word": "Kö, alternativ 1",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Ko_alt_1.png",
+    "video": "https://player.vimeo.com/video/572427654"
+  },
+  {
+    "id": 127,
+    "word": "Kö, alternativ 2",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Ko_alt_2.png",
+    "video": "https://player.vimeo.com/video/572427675"
+  },
+  {
+    "id": 128,
+    "word": "Kött",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Kott.png",
+    "video": "https://player.vimeo.com/video/216073174"
+  },
+  {
+    "id": 129,
+    "word": "Ligg",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-ligg-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218493444"
+  },
+  {
+    "id": 130,
+    "word": "Lila",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/062_lila-01-285x284.png",
+    "video": "https://player.vimeo.com/video/171712490"
+  },
+  {
+    "id": 131,
+    "word": "Ljus",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/063_ljus-01-285x284.png",
+    "video": "https://player.vimeo.com/video/171712465"
+  },
+  {
+    "id": 132,
+    "word": "Lägg av!",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/064_lagg-av.png",
+    "video": "https://player.vimeo.com/video/171712553"
+  },
+  {
+    "id": 133,
+    "word": "Lägre",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/065_lagreNY_large.png",
+    "video": "https://player.vimeo.com/video/171712692"
+  },
+  {
+    "id": 134,
+    "word": "Lämna med esc",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Lamna_med_esc.png",
+    "video": "https://player.vimeo.com/video/572435202"
+  },
+  {
+    "id": 135,
+    "word": "Läsa på punktskriftsdisplayen",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Punktsktift_lasa_pa_displayen.png",
+    "video": "https://player.vimeo.com/video/572435457"
+  },
+  {
+    "id": 136,
+    "word": "Läsk eller champagne",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Champagne.png",
+    "video": "https://player.vimeo.com/video/216499744"
+  },
+  {
+    "id": 137,
+    "word": "Lång kvinna",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/52_lang_kvinna.png",
+    "video": "https://player.vimeo.com/video/216507125"
+  },
+  {
+    "id": 138,
+    "word": "Markera eller uppmärksamma något annat, alternativ 1",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Markera_nagot_annat_a.png",
+    "video": "https://player.vimeo.com/video/572427742"
+  },
+  {
+    "id": 139,
+    "word": "Markera eller uppmärksamma ågot annat, alternativ 2 (vid taktilt teckenspråk)",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Markera_nagot_annat_b.png",
+    "video": "https://player.vimeo.com/video/572427766"
+  },
+  {
+    "id": 140,
+    "word": "Missnöjd",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/09b_missnojd.png",
+    "video": "https://player.vimeo.com/video/216507508"
+  },
+  {
+    "id": 141,
+    "word": "Mjölk",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/Mjolk.png",
+    "video": "https://player.vimeo.com/video/266953557"
+  },
+  {
+    "id": 142,
+    "word": "Musklick",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Musklick.png",
+    "video": "https://player.vimeo.com/video/572435219"
+  },
+  {
+    "id": 143,
+    "word": "Mörk",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/070_mork.png",
+    "video": "https://player.vimeo.com/video/171712470"
+  },
+  {
+    "id": 144,
+    "word": "Nej (på armen)",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/071_nej-pa-arm.png",
+    "video": "https://player.vimeo.com/video/171712656"
+  },
+  {
+    "id": 145,
+    "word": "Nervös",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/072_nervos.png",
+    "video": "https://player.vimeo.com/video/171712544"
+  },
+  {
+    "id": 146,
+    "word": "Neutralt uttryck",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/073_neutralt.png",
+    "video": "https://player.vimeo.com/video/171712507"
+  },
+  {
+    "id": 147,
+    "word": "Nicka",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Nicka.png",
+    "video": "https://player.vimeo.com/video/216073389"
+  },
+  {
+    "id": 148,
+    "word": "Nu förstår jag",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/09a_nu-forstar-jag.png",
+    "video": "https://player.vimeo.com/video/216073412"
+  },
+  {
+    "id": 149,
+    "word": "Nysa eller prosit",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Nysa-prosit.png",
+    "video": "https://player.vimeo.com/video/216073349"
+  },
+  {
+    "id": 150,
+    "word": "Någon vill hälsa på dig",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/075_nagon_vill_halsa1.png",
+    "video": "https://player.vimeo.com/video/171712528"
+  },
+  {
+    "id": 151,
+    "word": "Någon vill krama dig eller kramas",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/074_kramas.png",
+    "video": "https://player.vimeo.com/video/171712675"
+  },
+  {
+    "id": 152,
+    "word": "Okej",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/Okej.png",
+    "video": "https://player.vimeo.com/video/266954175"
+  },
+  {
+    "id": 153,
+    "word": "Orange",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Orange-1.png",
+    "video": "https://player.vimeo.com/video/266954179"
+  },
+  {
+    "id": 154,
+    "word": "Page down",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Page_Down.png",
+    "video": "https://player.vimeo.com/video/572435246"
+  },
+  {
+    "id": 155,
+    "word": "Page up",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Page_Upp.png",
+    "video": "https://player.vimeo.com/video/572435266"
+  },
+  {
+    "id": 156,
+    "word": "Passera förbi",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Passera_forbi.png",
+    "video": "https://player.vimeo.com/video/572427880"
+  },
+  {
+    "id": 157,
+    "word": "Pendla med armen",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-pendla-med-armen-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218522099"
+  },
+  {
+    "id": 158,
+    "word": "Pil höger",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Pil_hoger.png",
+    "video": "https://player.vimeo.com/video/572435287"
+  },
+  {
+    "id": 159,
+    "word": "Pil ner",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Pil_ner.png",
+    "video": "https://player.vimeo.com/video/572435312"
+  },
+  {
+    "id": 160,
+    "word": "Pil upp",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Pil_upp.png",
+    "video": "https://player.vimeo.com/video/572435347"
+  },
+  {
+    "id": 161,
+    "word": "Pil vänster",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Pil_vanster.png",
+    "video": "https://player.vimeo.com/video/572435371"
+  },
+  {
+    "id": 162,
+    "word": "Placering av föremål",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/Placering-av-foremal.png",
+    "video": "https://player.vimeo.com/video/266954187"
+  },
+  {
+    "id": 163,
+    "word": "Placering av person",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/Placering-av-person.png",
+    "video": "https://player.vimeo.com/video/266954196"
+  },
+  {
+    "id": 164,
+    "word": "Prata eller samtala",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/092_samtala.png",
+    "video": "https://player.vimeo.com/video/171712471"
+  },
+  {
+    "id": 165,
+    "word": "Publik",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Publik.png",
+    "video": "https://player.vimeo.com/video/572427905"
+  },
+  {
+    "id": 166,
+    "word": "Päron",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/31_paron.png",
+    "video": "https://player.vimeo.com/video/216073260"
+  },
+  {
+    "id": 167,
+    "word": "På det viset, jaha, jaså",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Pa_det_viset.png",
+    "video": "https://player.vimeo.com/video/572427936"
+  },
+  {
+    "id": 168,
+    "word": "Rasta hunden",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-rasta-hunden-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724675"
+  },
+  {
+    "id": 169,
+    "word": "Rastklocka",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Rastklocka.png",
+    "video": "https://player.vimeo.com/video/572427399"
+  },
+  {
+    "id": 170,
+    "word": "Regn",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/080_regn-011.png",
+    "video": "https://player.vimeo.com/video/541335659"
+  },
+  {
+    "id": 171,
+    "word": "Bord rektangulärt ",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/012_bord_fyrkant.png",
+    "video": "https://player.vimeo.com/video/171712482"
+  },
+  {
+    "id": 172,
+    "word": "Riktning",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/081_riktning.png",
+    "video": "https://player.vimeo.com/video/171712543"
+  },
+  {
+    "id": 173,
+    "word": "Riktning fram",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-riktning-fram-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218522354"
+  },
+  {
+    "id": 174,
+    "word": "Riktning höger",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-riktning-hoger-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724841"
+  },
+  {
+    "id": 175,
+    "word": "Riktning vänster",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-riktning-vanster-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724766"
+  },
+  {
+    "id": 176,
+    "word": "Ringa på dörren",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/082_ringa_pa_dorren.png",
+    "video": "https://player.vimeo.com/video/171712682"
+  },
+  {
+    "id": 177,
+    "word": "Rosa",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/083_rosa-01-285x284.png",
+    "video": "https://player.vimeo.com/video/171712639"
+  },
+  {
+    "id": 178,
+    "word": "Rum",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Rum.png",
+    "video": "https://player.vimeo.com/video/171712517"
+  },
+  {
+    "id": 179,
+    "word": "Bord runt ",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/013_bord_runt.png",
+    "video": "https://player.vimeo.com/video/171712480"
+  },
+  {
+    "id": 180,
+    "word": "Rynka på ögonbrynen",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Rynka_pa_ogonbrynen.png",
+    "video": "https://player.vimeo.com/video/572427959"
+  },
+  {
+    "id": 181,
+    "word": "Räcka upp handen",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/086_racka-upp-handen.png",
+    "video": "https://player.vimeo.com/video/541335682"
+  },
+  {
+    "id": 182,
+    "word": "Rädd",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/087_radd.png",
+    "video": "https://player.vimeo.com/video/171712473"
+  },
+  {
+    "id": 183,
+    "word": "Rätt",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/088_ratt.png",
+    "video": "https://player.vimeo.com/video/171712472"
+  },
+  {
+    "id": 184,
+    "word": "Röd",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/089_rod.png",
+    "video": "https://player.vimeo.com/video/171712653"
+  },
+  {
+    "id": 185,
+    "word": "Röka",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/090_roka.png",
+    "video": "https://player.vimeo.com/video/171712647"
+  },
+  {
+    "id": 186,
+    "word": "Rött vin",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Rott-vin.png",
+    "video": "https://player.vimeo.com/video/216513618"
+  },
+  {
+    "id": 187,
+    "word": "Saft",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/091_saft.png",
+    "video": "https://player.vimeo.com/video/171712475"
+  },
+  {
+    "id": 188,
+    "word": "Sakta ner",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sakta-ner-scaled.jpg",
+    "video": "https://player.vimeo.com/video/216976393"
+  },
+  {
+    "id": 189,
+    "word": "Sela av",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sela-av-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724710"
+  },
+  {
+    "id": 190,
+    "word": "Sela på",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sela-pa-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523256"
+  },
+  {
+    "id": 191,
+    "word": "Servett",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Servett.png",
+    "video": "https://player.vimeo.com/video/216512321"
+  },
+  {
+    "id": 192,
+    "word": "Siffra",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/093_siffra.png",
+    "video": "https://player.vimeo.com/video/171712539"
+  },
+  {
+    "id": 193,
+    "word": "Sitt",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sitt-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523444"
+  },
+  {
+    "id": 194,
+    "word": "Sittplats",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Sittplats-en-Illustration.png",
+    "video": "https://player.vimeo.com/video/171712648"
+  },
+  {
+    "id": 195,
+    "word": "Skaka på huvudet",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Skaka-pa-huvudet.png",
+    "video": "https://player.vimeo.com/video/216073292"
+  },
+  {
+    "id": 196,
+    "word": "Skratta lite",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Skratta-lite-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712510"
+  },
+  {
+    "id": 197,
+    "word": "Skratta mycket",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Skratta-mycket-Illustration.png",
+    "video": "https://player.vimeo.com/video/171712474"
+  },
+  {
+    "id": 198,
+    "word": "Skritt",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Skritt.png",
+    "video": "https://player.vimeo.com/video/572428113"
+  },
+  {
+    "id": 199,
+    "word": "Skriva för hand",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/098_skriva_for_hand.png",
+    "video": "https://player.vimeo.com/video/171712684"
+  },
+  {
+    "id": 200,
+    "word": "Skriva på dator",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/099_skriva_pa_dator.png",
+    "video": "https://player.vimeo.com/video/171712644"
+  },
+  {
+    "id": 201,
+    "word": "Skål!",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/100_skal.png",
+    "video": "https://player.vimeo.com/video/171712532"
+  },
+  {
+    "id": 202,
+    "word": "Slå av förstoring",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Forstoring_sla-av.png",
+    "video": "https://player.vimeo.com/video/572435081"
+  },
+  {
+    "id": 203,
+    "word": "Slå på förstoring",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Forstoring_sla_pa.png",
+    "video": "https://player.vimeo.com/video/572435115"
+  },
+  {
+    "id": 204,
+    "word": "Smal (man)",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/08/Man-smal.png",
+    "video": "https://player.vimeo.com/video/216512603"
+  },
+  {
+    "id": 205,
+    "word": "Snabbmeny-tangenten",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Snabbmeny-tangenten.png",
+    "video": "https://player.vimeo.com/video/572435485"
+  },
+  {
+    "id": 206,
+    "word": "Snö",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/101_sno.png",
+    "video": "https://player.vimeo.com/video/171712571"
+  },
+  {
+    "id": 207,
+    "word": "Sol, alternativ 1",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/102_sol1.png",
+    "video": "https://player.vimeo.com/video/171712477"
+  },
+  {
+    "id": 208,
+    "word": "Sol, alternativ 2",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/102_sol2.png",
+    "video": "https://player.vimeo.com/video/171712476"
+  },
+  {
+    "id": 209,
+    "word": "Somna",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/11_somna_sq285px.jpg",
+    "video": "https://player.vimeo.com/video/216512724"
+  },
+  {
+    "id": 210,
+    "word": "Stanna ekipaget",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-stanna-ekipaget-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724461"
+  },
+  {
+    "id": 211,
+    "word": "Stanna kvar",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Stanna_kvar.png",
+    "video": "https://player.vimeo.com/video/572427419"
+  },
+  {
+    "id": 212,
+    "word": "Starta ekipage, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-starta-ekipaget-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217009252"
+  },
+  {
+    "id": 213,
+    "word": "Starta ekipage, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-starta-ekipaget-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724377"
+  },
+  {
+    "id": 214,
+    "word": "Starta talets löpande läsning (med jaws-tangenten + pil ner)",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tal_starta_lopande_la%E2%95%A0esning.png",
+    "video": "https://player.vimeo.com/video/572435586"
+  },
+  {
+    "id": 215,
+    "word": "Stopp",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Stopp-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712642"
+  },
+  {
+    "id": 216,
+    "word": "Stämmer",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/106_stammer.png",
+    "video": "https://player.vimeo.com/video/541335703"
+  },
+  {
+    "id": 217,
+    "word": "Stänga med alt+f4 eller esc",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Stanga_med_altF4_eller_esc.png",
+    "video": "https://player.vimeo.com/video/572435508"
+  },
+  {
+    "id": 218,
+    "word": "Suck",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/12_suck_sq285px.jpg",
+    "video": "https://player.vimeo.com/video/216073497"
+  },
+  {
+    "id": 219,
+    "word": "Sur",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/107_sur.png",
+    "video": "https://player.vimeo.com/video/171712686"
+  },
+  {
+    "id": 220,
+    "word": "Svart",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/108_svart-011-285x284.png",
+    "video": "https://player.vimeo.com/video/171712504"
+  },
+  {
+    "id": 221,
+    "word": "Sätt hunden fot, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-satt-hunden-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218522688"
+  },
+  {
+    "id": 222,
+    "word": "Sätt hunden fot, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-satt-hunden-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724569"
+  },
+  {
+    "id": 223,
+    "word": "Sök bänk",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sok-bank-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523558"
+  },
+  {
+    "id": 224,
+    "word": "Sök dörr",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sok-dorr-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523633"
+  },
+  {
+    "id": 225,
+    "word": "Sök kant, alternativ 1",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sok-kant-alt1-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523732"
+  },
+  {
+    "id": 226,
+    "word": "Sök kant, alternativ 2",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sok-kant-alt2-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523812"
+  },
+  {
+    "id": 227,
+    "word": "Sök stolpe",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-sok-stolpe-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218523901"
+  },
+  {
+    "id": 228,
+    "word": "Sök trappa ner",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-trappa-ner-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724794"
+  },
+  {
+    "id": 229,
+    "word": "Sök trappa upp",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-trappa-upp-scaled.jpg",
+    "video": "https://player.vimeo.com/video/215724603"
+  },
+  {
+    "id": 230,
+    "word": "Sömnig, trött",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/121_trott.png",
+    "video": "https://player.vimeo.com/video/171712617"
+  },
+  {
+    "id": 231,
+    "word": "Ta bort tallrik",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/19_taBortTallrik.png",
+    "video": "https://player.vimeo.com/video/216512948"
+  },
+  {
+    "id": 232,
+    "word": "Tabba fram med tabb",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tabba_med_tabb.png",
+    "video": "https://player.vimeo.com/video/572435538"
+  },
+  {
+    "id": 233,
+    "word": "Tabba tillbaka med skift+tabb",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tabba_tillbaka_med_Skifttabb.png",
+    "video": "https://player.vimeo.com/video/572435555"
+  },
+  {
+    "id": 234,
+    "word": "Tack",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tack.png",
+    "video": "https://player.vimeo.com/video/572428141"
+  },
+  {
+    "id": 235,
+    "word": "Tala",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/109_tala.png",
+    "video": "https://player.vimeo.com/video/171712550"
+  },
+  {
+    "id": 236,
+    "word": "Tallrik",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/110_tallrik.png",
+    "video": "https://player.vimeo.com/video/171712671"
+  },
+  {
+    "id": 237,
+    "word": "Tappa hakan",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tappa_hakan.png",
+    "video": "https://player.vimeo.com/video/572428166"
+  },
+  {
+    "id": 238,
+    "word": "Telefon alternativ ett",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/07/Telefon-Illustration.jpg",
+    "video": "https://player.vimeo.com/video/171712678"
+  },
+  {
+    "id": 239,
+    "word": "Telefon, alternativ 2",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Telefon_alt_2.png",
+    "video": "https://player.vimeo.com/video/572428188"
+  },
+  {
+    "id": 240,
+    "word": "Teleslinga",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/06/114_teleslinga-011.png",
+    "video": "https://player.vimeo.com/video/541335717"
+  },
+  {
+    "id": 241,
+    "word": "Tiokrona-mynt",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_10-krona.png",
+    "video": "https://vimeo.com/572427857?fl=pl&fe=vl"
+  },
+  {
+    "id": 242,
+    "word": "Titta eller se",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/115_titta.png",
+    "video": "https://vimeo.com/171712643?fl=pl&fe=vl"
+  },
+  {
+    "id": 243,
+    "word": "Tjock (man)",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/08/Man-tjock.png",
+    "video": "https://player.vimeo.com/video/216513162"
+  },
+  {
+    "id": 244,
+    "word": "Tjugokronorssedel",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_20_kronor.png",
+    "video": "https://player.vimeo.com/video/572427989"
+  },
+  {
+    "id": 245,
+    "word": "Toalett",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/116_toalett.png",
+    "video": "https://player.vimeo.com/video/171712646"
+  },
+  {
+    "id": 246,
+    "word": "Tolk",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/117_tolk.png",
+    "video": "https://player.vimeo.com/video/171712535"
+  },
+  {
+    "id": 247,
+    "word": "Tolka",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Tolka.png",
+    "video": "https://player.vimeo.com/video/216513268"
+  },
+  {
+    "id": 248,
+    "word": "Tolkbyte",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/Tolkbyte.png",
+    "video": "https://player.vimeo.com/video/541335748"
+  },
+  {
+    "id": 249,
+    "word": "Tolkbyte, alternativ 2",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tolkbye_alt_2.png",
+    "video": "https://player.vimeo.com/video/572426761"
+  },
+  {
+    "id": 250,
+    "word": "Trappa ner",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/119_trappa-ner.png",
+    "video": "https://player.vimeo.com/video/171712650"
+  },
+  {
+    "id": 251,
+    "word": "Trappa upp",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/120_trappa-upp.png",
+    "video": "https://player.vimeo.com/video/171712651"
+  },
+  {
+    "id": 252,
+    "word": "Trav",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Trav.png",
+    "video": "https://player.vimeo.com/video/572427062"
+  },
+  {
+    "id": 253,
+    "word": "Turkos",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Turkos.png",
+    "video": "https://player.vimeo.com/video/216513337"
+  },
+  {
+    "id": 254,
+    "word": "Tveksam",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/122_tveksam.png",
+    "video": "https://player.vimeo.com/video/171712555"
+  },
+  {
+    "id": 255,
+    "word": "Tvåhundrakronorssedel",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Sedel_200_kronor.png",
+    "video": "https://player.vimeo.com/video/572428065"
+  },
+  {
+    "id": 256,
+    "word": "Tvåkrona-mynt",
+    "category": "Pengar",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Mynt_2-krona.png",
+    "video": "https://player.vimeo.com/video/572427820"
+  },
+  {
+    "id": 257,
+    "word": "Tyst eller tystnad",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/07_tyst.png",
+    "video": "https://player.vimeo.com/video/216073439"
+  },
+  {
+    "id": 258,
+    "word": "Tysta talet (med ctrl), alternativ 1",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tal_tysta_talet_alt1.png",
+    "video": "https://player.vimeo.com/video/572435609"
+  },
+  {
+    "id": 259,
+    "word": "Tysta talet (med ctrl), alternativ 2",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Tal_tysta_talet_alt2.png",
+    "video": "https://player.vimeo.com/video/572435647"
+  },
+  {
+    "id": 260,
+    "word": "Tårögd",
+    "category": "Beteenden och Känslor",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/124_tarogd.png",
+    "video": "https://player.vimeo.com/video/541335772"
+  },
+  {
+    "id": 261,
+    "word": "Ute",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Ute.png",
+    "video": "https://player.vimeo.com/video/572427305"
+  },
+  {
+    "id": 262,
+    "word": "Vad menar du? eller vad sa du?",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/126_vad-menar-du.png",
+    "video": "https://player.vimeo.com/video/171712701"
+  },
+  {
+    "id": 263,
+    "word": "Vad skulle jag säga?",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/128_vad-skulle-jag-saga.png",
+    "video": "https://player.vimeo.com/video/171712674"
+  },
+  {
+    "id": 264,
+    "word": "Varsågod",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Varsagod.png",
+    "video": "https://player.vimeo.com/video/572427379"
+  },
+  {
+    "id": 265,
+    "word": "Vatten",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2016/10/129_Vatten.jpg",
+    "video": "https://player.vimeo.com/video/266954212"
+  },
+  {
+    "id": 266,
+    "word": "Vin",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Vin-1.png",
+    "video": "https://player.vimeo.com/video/216073549"
+  },
+  {
+    "id": 267,
+    "word": "Visa powerpoint",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Visa_PowerPoint.png",
+    "video": "https://player.vimeo.com/video/572427333"
+  },
+  {
+    "id": 268,
+    "word": "Visselpipa",
+    "category": "Substantiv",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-visselpipa-scaled.jpg",
+    "video": "https://player.vimeo.com/video/218539970"
+  },
+  {
+    "id": 269,
+    "word": "Vit",
+    "category": "Färger",
+    "image": "https://nkcdb.se/wp-content/uploads/2020/11/130_vit-01-285x284-1.png",
+    "video": "https://player.vimeo.com/video/171712509"
+  },
+  {
+    "id": 270,
+    "word": "Vitt vin",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Vitt-vin-1.png",
+    "video": "https://player.vimeo.com/video/216073578"
+  },
+  {
+    "id": 271,
+    "word": "Väder",
+    "category": "Väder",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/131_vader.png",
+    "video": "https://player.vimeo.com/video/171712514"
+  },
+  {
+    "id": 272,
+    "word": "Väg",
+    "category": "Ledsagning",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/132_vag.png",
+    "video": "https://player.vimeo.com/video/171712534"
+  },
+  {
+    "id": 273,
+    "word": "Vända käppen bakåt",
+    "category": "Ledarhund",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/med-ledarhunden-vand-kappen-bakat-scaled.jpg",
+    "video": "https://player.vimeo.com/video/217073519"
+  },
+  {
+    "id": 274,
+    "word": "Vänta",
+    "category": "Feedback/Interaktion",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/133_vanta.png",
+    "video": "https://player.vimeo.com/video/171712685"
+  },
+  {
+    "id": 275,
+    "word": "Vänta, datorn \"tänker\" eller laddning pågår",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Vanta_datorn_tanker.png",
+    "video": "https://player.vimeo.com/video/572435677"
+  },
+  {
+    "id": 276,
+    "word": "Växla till nästa ppt-bild",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/Vaxla-ppt-bild.png",
+    "video": "https://player.vimeo.com/video/216073521"
+  },
+  {
+    "id": 277,
+    "word": "Windows-tangenten (på pc)",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Windows_tangenten_PC.png",
+    "video": "https://player.vimeo.com/video/572435727"
+  },
+  {
+    "id": 278,
+    "word": "Äpple",
+    "category": "Mat",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/32_apple.png",
+    "video": "https://player.vimeo.com/video/216493049"
+  },
+  {
+    "id": 279,
+    "word": "Äta",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/134_ata.png",
+    "video": "https://player.vimeo.com/video/171712500"
+  },
+  {
+    "id": 280,
+    "word": "Ångra med ctrl+z",
+    "category": "Dator",
+    "image": "https://nkcdb.se/wp-content/uploads/2021/11/Angra_med_ctrlZ.png",
+    "video": "https://player.vimeo.com/video/572435731"
+  },
+  {
+    "id": 281,
+    "word": "Översätta",
+    "category": "Verb",
+    "image": "https://nkcdb.se/wp-content/uploads/2017/05/25_oversatta.png",
+    "video": "https://player.vimeo.com/video/216512050"
+  }
+]
